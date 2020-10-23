@@ -16,7 +16,7 @@ Free-from-All allows users to input their current location & search for the make
 
 ## Installation
 
-In order to access the application, please visit the following site: https://rgl10d.github.io/free-from-all/ 
+In order to access the application, please visit the following site: https://reyarger.github.io/free-from-all/ 
 
 
 ## Usage 
